@@ -18,6 +18,10 @@ Toutes les versions : [Releases](https://github.com/Nels-G/SIGMA-Sonar/releases)
 2. **Rien à saisir** : le programme trouve tout seul le serveur du labo sur le réseau.
 3. Le PC apparaît dans le dashboard Sonar ; une fois accepté, il reçoit son numéro (PC-01, PC-02…).
 
+**Windows affiche « Windows a protégé votre ordinateur » ?** C'est normal pour un nouveau programme non signé :
+cliquer sur *Informations complémentaires* puis *Exécuter quand même*. Au labo, lancer l'installateur depuis une
+clé USB évite cet avertissement. Les mises à jour s'installent ensuite sans avertissement.
+
 Le programme démarre avec Windows pour tous les comptes du PC, reste discret près de l'horloge
 et **se met à jour tout seul**.
 
