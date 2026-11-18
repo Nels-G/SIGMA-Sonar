@@ -6,22 +6,24 @@ l'élève répond « C'est mon PC, je suis là ».
 
 ## Télécharger
 
-**[⬇ SIGMA-Sonar.exe — dernière version](https://github.com/Nels-G/SIGMA-Sonar/releases/latest/download/SIGMA-Sonar.exe)**
+Page de téléchargement : **[nels-g.github.io/SIGMA-Sonar](https://nels-g.github.io/SIGMA-Sonar/)**
+
+**[⬇ SIGMA-Sonar-Setup.exe : dernière version](https://github.com/Nels-G/SIGMA-Sonar/releases/latest/download/SIGMA-Sonar-Setup.exe)**
 
 Toutes les versions : [Releases](https://github.com/Nels-G/SIGMA-Sonar/releases)
 
 ## Installer
 
-1. Placer `SIGMA-Sonar.exe` dans `%LOCALAPPDATA%\Programs\SIGMA\` et le lancer.
-2. Saisir l'**adresse du serveur Sonar** du labo et le **jeton d'installation**
-   (dashboard Sonar › Postes › *Installer sur un PC*).
-3. Le PC reçoit son numéro (PC-01, PC-02…) et apparaît dans le dashboard.
+1. Lancer **`SIGMA-Sonar-Setup.exe`** : Suivant, J'accepte, Installer (un administrateur du PC valide une seule fois).
+2. **Rien à saisir** : le programme trouve tout seul le serveur du labo sur le réseau.
+3. Le PC apparaît dans le dashboard Sonar ; une fois accepté, il reçoit son numéro (PC-01, PC-02…).
 
-Le programme démarre avec Windows, reste près de l'horloge et **se met à jour tout seul**.
+Le programme démarre avec Windows pour tous les comptes du PC, reste discret près de l'horloge
+et **se met à jour tout seul**.
 
-**Prérequis** : Windows 10 ou 11 (runtime Microsoft Edge WebView2, déjà présent sur Windows 11),
+**Prérequis** : Windows 10 ou 11 (64 bits) avec Microsoft Edge WebView2 (déjà présent sur Windows 11),
 sur le réseau du labo.
 
 ---
 
-Ce dépôt ne contient que les versions publiées du programme. Le code source est privé.
+Ce dépôt ne contient que les versions publiées du programme et la page de téléchargement. Le code source est privé.
