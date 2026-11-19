@@ -12,6 +12,11 @@ Page de téléchargement : **[nels-g.github.io/SIGMA-Sonar](https://nels-g.githu
 
 Toutes les versions : [Releases](https://github.com/Nels-G/SIGMA-Sonar/releases)
 
+## Le serveur du labo
+
+Le dashboard et la base de données s'installent sur le PC admin avec **SIGMA Sonar Serveur** :
+[⬇ SIGMA-Sonar-Serveur-Setup.exe](https://github.com/Nels-G/SIGMA-Sonar-Serveur/releases/latest/download/SIGMA-Sonar-Serveur-Setup.exe) · [toutes les versions](https://github.com/Nels-G/SIGMA-Sonar-Serveur/releases)
+
 ## Installer
 
 1. Lancer **`SIGMA-Sonar-Setup.exe`** : Suivant, J'accepte, Installer (un administrateur du PC valide une seule fois).
